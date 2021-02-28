@@ -60,6 +60,8 @@ body {
     .header {
         background-color: #1d2126;
         padding: 20px 0;
+        position: sticky;
+        top: 0;
     }
 .logo{
     display: flex;
@@ -192,31 +194,33 @@ body {
         height: 60px;
         background-color: #d0d5d9;
         margin-left: 1px;
+        position: relative;
     }
-    .link-1{
-        background-image: url(image/FB.png);
-        background-repeat: no-repeat;
-        background-position: 6px 6px;
+    .img-1{
+      position: absolute;
+      margin-top:6px;
+    margin-left: 6px; 
     }
-    .link-2{
-        background-image: url(image/t.png);
-        background-repeat: no-repeat;
-        background-position: 6px 6px;
-    }
-    .link-3{
-        background-image: url(image/g.png);
-        background-repeat: no-repeat;
-        background-position: 6px 6px;
-    }
-    .link-4{
-        background-image: url(image/ball.png);
-        background-repeat: no-repeat;
-        background-position: 6px 6px;
-    }
-    .link-5{
-        background-image: url(image/be.png);
-        background-repeat: no-repeat;
-        background-position: 6px 6px;
+    .img-2{
+        position: absolute; 
+        margin-top:6px;
+        margin-left: 6px;
+      }
+      .img-3{
+        position: absolute; 
+        margin-top:6px;
+        margin-left: 6px;
+      }
+      .img-4{
+        position: absolute; 
+        margin-top:6px;
+        margin-left: 6px;
+      }
+      .img-5{
+        position: absolute; 
+        margin-top:6px;
+        margin-left: 6px;
+      
     }
     .punkts{
         display: flex;
@@ -284,11 +288,8 @@ body {
 
     .header {
         background-color: #1d2126;
-    }
-
-    .header {
-        background-color: #1d2126;
         padding: 20px 0;
+        position: sticky;
     }
 
     .logo {
@@ -420,32 +421,33 @@ body {
         height: 60px;
         background-color: #d0d5d9;
         margin-left: 1px;
+        position: relative;
     }
-    .link-1{
-        background-image: url(image/FB.png);
-        background-repeat: no-repeat;
-        background-position: 6px 6px;
+    .img-1{
+      position: absolute;
+      margin-top:6px;
+      margin-left: 6px; 
     }
-    .link-2{
-        background-image: url(image/t.png);
-        background-repeat: no-repeat;
-        background-position: 6px 6px;
-    }
-    .link-3{
-        background-image: url(image/g.png);
-        background-repeat: no-repeat;
-        background-position: 6px 6px;
-    }
-    .link-4{
-        background-image: url(image/ball.png);
-        background-repeat: no-repeat;
-        background-position: 6px 6px;
-    }
-    .link-5{
-        background-image: url(image/be.png);
-        background-repeat: no-repeat;
-        background-position: 6px 6px;
-    }
+    .img-2{
+        position: absolute; 
+        margin-top:6px;
+        margin-left: 6px;
+      }
+      .img-3{
+        position: absolute; 
+        margin-top:6px;
+        margin-left: 6px;
+      }
+      .img-4{
+        position: absolute; 
+        margin-top:6px;
+        margin-left: 6px;
+      }
+      .img-5{
+        position: absolute; 
+        margin-top:6px;
+        margin-left: 6px;
+      }
     .punkts{
         display: flex;
         flex-direction: column;
@@ -538,6 +540,8 @@ body {
     .header {
         background-color: #1d2126;
         padding: 10px 0;
+        position: sticky;
+        top: 0;
     }
 
 
@@ -695,32 +699,33 @@ font-weight: bold;
     height: 60px;
     background-color: #d0d5d9;
     margin-left: 1px;
+    position: relative;
 }
-.link-1{
-    background-image: url(image/FB.png);
-    background-repeat: no-repeat;
-    background-position: 6px 6px;
+.img-1{
+  position: absolute; 
+  margin-top:6px;
+    margin-left: 6px; 
 }
-.link-2{
-    background-image: url(image/t.png);
-    background-repeat: no-repeat;
-    background-position: 6px 6px;
-}
-.link-3{
-    background-image: url(image/g.png);
-    background-repeat: no-repeat;
-    background-position: 6px 6px;
-}
-.link-4{
-    background-image: url(image/ball.png);
-    background-repeat: no-repeat;
-    background-position: 6px 6px;
-}
-.link-5{
-    background-image: url(image/be.png);
-    background-repeat: no-repeat;
-    background-position: 6px 6px;
-}
+.img-2{
+    position: absolute; 
+    margin-top:6px;
+    margin-left: 6px;
+  }
+  .img-3{
+    position: absolute; 
+    margin-top:6px;
+    margin-left: 6px;
+  }
+  .img-4{
+    position: absolute; 
+    margin-top:6px;
+    margin-left: 6px;
+  }
+  .img-5{
+    position: absolute; 
+    margin-top:6px;
+    margin-left: 6px;
+  }
 .punkts{
     display: flex;
     flex-direction: column;
@@ -812,6 +817,9 @@ font-weight: bold;
     .header {
         background-color: #1d2126;
         padding: 20px 0;
+        position: sticky;
+        top: 0;
+    
     }
 
 
@@ -969,32 +977,36 @@ font-weight: bold;
     height: 60px;
     background-color: #d0d5d9;
     margin-left: 1px;
+    position: relative;
 }
-.link-1{
-    background-image: url(image/FB.png);
-    background-repeat: no-repeat;
-    background-position: 6px 6px;
+.img-1{
+  position: absolute; 
+  margin-top:6px;
+  margin-left: 6px;
 }
-.link-2{
-    background-image: url(image/t.png);
-    background-repeat: no-repeat;
-    background-position: 6px 6px;
-}
-.link-3{
-    background-image: url(image/g.png);
-    background-repeat: no-repeat;
-    background-position: 6px 6px;
-}
-.link-4{
-    background-image: url(image/ball.png);
-    background-repeat: no-repeat;
-    background-position: 6px 6px;
-}
-.link-5{
-    background-image: url(image/be.png);
-    background-repeat: no-repeat;
-    background-position: 6px 6px;
-}
+.img-2{
+    position: absolute; 
+    margin-top:6px;
+    margin-left: 6px;
+  }
+  .img-3{
+    position: absolute; 
+    margin-top:6px;
+    margin-left: 6px;
+  }
+  .img-4{
+    position: absolute; 
+    margin-top:6px;
+    margin-left: 6px;
+  }
+  .img-5{
+    position: absolute; 
+    margin-top:6px;
+    margin-left: 6px;
+  }
+        
+
+
 .punkts{
     display: flex;
     flex-direction: column;

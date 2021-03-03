@@ -89,6 +89,7 @@ body {
     
         width: 85px;
         height: 30px;
+        padding-left: 10px;
     }
 
     .menu a {
@@ -871,6 +872,7 @@ margin-top: -1px;
     
     width: 85px;
     height: 30px;
+    padding-left: 10px;
 }
 
 .menu a {
@@ -1305,9 +1307,10 @@ font-weight: bold;
     }
 
     .menu li {
-        
         width: 85px;
         height: 30px;
+        padding-left: 10px;
+
     }
 
     .menu a {

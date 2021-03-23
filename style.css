@@ -158,7 +158,8 @@ body {
     
     }
     
-    [class*="btn-"] {
+    [class*="btn-"],
+    .bat-call {
         width: 125px;
         height: 45px;
         background-color: transparent;
@@ -704,7 +705,8 @@ body {
     
     }
     
-    [class*="btn-"] {
+    [class*="btn-"],
+    .bat-call {
         width: 125px;
         height: 45px;
         background-color: transparent;
@@ -1308,7 +1310,8 @@ input[type=button] {
 
 }
 
-[class*="btn-"] {
+[class*="btn-"],
+.bat-call {
     width: 125px;
     height: 45px;
     background-color: transparent;
